@@ -1478,7 +1478,7 @@ body.one-page #header-menu li.active a:hover { color: #f05557 !important; }
     font-family: 'EB Garamond', serif, 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .navbar-brand img {
-    max-width: 100%;
+    max-width: 150px;
     max-height: 50px;
 }
 
