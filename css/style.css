@@ -1432,6 +1432,7 @@ button {
     padding: 0;
     width: 100%;
     display: block;
+    position: absolute;
     
 
     -webkit-border-bottom: 0px solid #eaeaea;
