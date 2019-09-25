@@ -1449,7 +1449,7 @@ body.one-page #header-menu li.active a:hover { color: #f05557 !important; }
 -------------------------------------------------------------------------- */
 .navbar {
     margin: 0;
-
+   
     -webkit-border: 0;
        -moz-border: 0;
          -o-border: 0;
@@ -1478,7 +1478,8 @@ body.one-page #header-menu li.active a:hover { color: #f05557 !important; }
     font-family: 'EB Garamond', serif, 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .navbar-brand img {
-    max-width: 150px;
+    padding-top: 10px;
+    max-width: 250px;
     max-height: 50px;
 }
 
@@ -5481,6 +5482,7 @@ body.dark-version .widget {
     #header-menu .navbar-toggle {
         margin-top: 25px;
         margin-bottom: 25px;
+        
     }
 
     #fixed-header-menu { display: none; }
