@@ -1431,7 +1431,8 @@ button {
 #header-menu {
     padding: 0;
     width: 100%;
-    display: flex;
+    display: inline-block;
+
    
 
     -webkit-border-bottom: 0px solid #eaeaea;
