@@ -638,14 +638,14 @@ li {font-family: 'EB Garamond', serif, 'Helvetica Neue', Helvetica, Arial, sans-
 ========================================================================== */
 /* 4.1 Social Icons
 -------------------------------------------------------------------------- */
-.social-lang {
-    display: flex;
-}
+
 .lang-switchers {
     position: absolute;
 }
 .langsw {
     color: white;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
 }
 .langsw:hover {
     color: #663ab1 !important;  
