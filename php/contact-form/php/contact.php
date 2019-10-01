@@ -2,7 +2,7 @@
 
 if(isset($_REQUEST["isvalid"])){
 
-	$youremail = "example@example.com"; // Enter your email here!!
+	$youremail = "mcolsan@protonmail.com"; // Enter your email here!!
 	$name = $_POST["username"];
 	$email = $_POST["useremail"];
 	$mailsubject = $_POST["usersubject"];
